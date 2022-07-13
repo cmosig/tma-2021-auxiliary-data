@@ -1,3 +1,5 @@
+### This is a copy of: https://git.rg.net/bgp-rfd/tma-2021-auxiliary-data
+
 ###  Auxiliary material for the paper "Revisiting Recommended BGP Route Flap Damping Configurations" 
 
 Before you start using the scripts in this repository, please install our
